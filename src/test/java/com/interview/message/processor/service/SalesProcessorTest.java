@@ -62,7 +62,7 @@ public class SalesProcessorTest {
     }
 
     @Test
-    public void given51MessageWhenProductIsNullThenReturnTrue() {
+    public void givenMessageWhenProductIsNullThenReturnTrue() {
         boolean result = true;
 
         MessageParser messageParser = Mockito.mock(MessageParser.class);
