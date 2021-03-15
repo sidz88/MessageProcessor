@@ -1,4 +1,4 @@
-Message Processing Application
+**Message Processing Application**
 
 This application accepts a csv file with messages and processes them to produce reports. 
 
