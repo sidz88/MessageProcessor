@@ -1,14 +1,11 @@
 package com.interview.message.processor.service;
 
-import com.interview.message.processor.model.Product;
 import org.junit.Test;
-import org.mockito.Mock;
 import org.mockito.Mockito;
 
 import java.util.HashMap;
-import java.util.Map;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class SalesProcessorTest {
 
