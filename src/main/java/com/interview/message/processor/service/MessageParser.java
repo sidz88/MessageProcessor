@@ -17,7 +17,7 @@ public abstract class MessageParser {
     /**
      * @param message
      * @return Product
-     * Return Product by pasing message
+     * Return Product
      */
     public Product parseMessage(String message) {
         if (message == null || message.isEmpty()) {
